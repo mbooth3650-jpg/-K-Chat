@@ -1,0 +1,8 @@
+{
+  "name": "Remix K-ChatAnywhere LLM Studio",
+  "description": "한국어에 최적화된 ChatAnywhere 및 Gemini 멀티 LLM 대화형 챗봇 스튜디오",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
